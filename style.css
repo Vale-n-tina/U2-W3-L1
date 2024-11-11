@@ -1,0 +1,10 @@
+#contenitore div{
+    display: flex;
+    align-items: center;
+    background-color: brown;
+    border-radius: 20px;
+    height: 150px;
+    text-align: center;
+    margin: 1.5rem;
+    padding: 1rem;
+}
